@@ -6,15 +6,15 @@ Welcome to the "Developer Tools" repository! This project contains a collection 
 
 Below is a list of tools included in this repository, along with links to their detailed README:
 
-1. [Postman](tools/postman/README.md) - Tool for testing APIs.
-2. [GitHub Desktop](tools/github-desktop/README.md) - Desktop application for easy GitHub workflow.
+1. 
+2. 
 3. [Docker Desktop](tools/docker-desktop/README.md) - Platform for running, managing, and scaling applications in containers.
-4. [Rancher](tools/rancher/README.md) - Platform for managing Kubernetes containers.
+4. [Terraform](Tools/Terraform/README.md) - Platform for managing Kubernetes containers.
 5. [GitKraken](Tools/Kraken/README.md) - Advanced Git GUI client for developers.
 6. [Bruno](Tools/Bruno/README.md) - Tool for CI/CD process automation.
 7. [Obsidian](Tools/Obsidian/README.md) - Application for note-taking and mind mapping for content creators.
-8. [Visual Studio Code](tools/visual-studio-code/README.md) - Popular code editor with a wide range of extensions.
-9. [Jira](tools/jira/README.md) - Project management and task tracking tool.
-10. [Slack](tools/slack/README.md) - Communication platform for developer teams.
+8. 
+9. 
+10. 
 
 Feel free to explore each of these tools and use them in your projects!

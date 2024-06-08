@@ -10,7 +10,7 @@ Below is a list of tools included in this repository, along with links to their 
 2. [GitKraken](Tools/Kraken/README.md) - Advanced Git GUI client for developers.
 3. [Bruno](Tools/Bruno/README.md) - Tool for CI/CD process automation.
 4. [Obsidian](Tools/Obsidian/README.md) - Application for note-taking and mind mapping for content creators.
-5. [ngrok](Tools/NgRok/README.md) - Tool to expose local servers to the internet securely.
+5. [Ngrok](Tools/NgRok/README.md) - Tool to expose local servers to the internet securely.
 6. [Starship](Tools/Starship/README.md) - Customizable and intelligent shell prompt.
 
 Feel free to explore each of these tools and use them in your projects!

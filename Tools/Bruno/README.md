@@ -14,7 +14,7 @@ Bruno is a powerful automation tool designed to streamline CI/CD processes and i
 
 To get started with Bruno, you'll need to install the Bruno CLI and configure your project's pipeline definition. Once set up, you can start automating your CI/CD processes and enjoying the benefits of increased efficiency and productivity.
 
-For more information, check out the [Bruno documentation](https://docs.bruno.dev/) and join the [Bruno community](https://community.bruno.dev/) to connect with other users and developers.
+For more information, check out the [Bruno GitHub](https://github.com/usebruno/bruno).
 
 ## License
 

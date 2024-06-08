@@ -15,3 +15,6 @@ Below is a list of tools included in this repository, along with links to their 
 
 Feel free to explore each of these tools and use them in your projects!
 
+## License
+
+This README is part of the "MyTools" repository and is licensed under the [MIT License](../LICENSE).

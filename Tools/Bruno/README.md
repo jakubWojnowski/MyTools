@@ -10,6 +10,10 @@ Bruno is a powerful automation tool designed to streamline CI/CD processes and i
 - **Scalability:** Scale your CI/CD infrastructure to handle projects of any size, from small prototypes to large-scale enterprise applications.
 - **Monitoring and Reporting:** Track the progress of your pipelines in real-time, monitor performance metrics, and generate detailed reports to identify bottlenecks and optimize workflows.
 
+## Example: View
+
+![GitKraken](https://github.com/jakubWojnowski/MyTools/assets/83953649/41de212b-145d-40ac-af7b-d9aca3af7fbb)
+
 ## Getting Started
 
 To get started with Bruno, you'll need to install the Bruno CLI and configure your project's pipeline definition. Once set up, you can start automating your CI/CD processes and enjoying the benefits of increased efficiency and productivity.

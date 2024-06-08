@@ -21,6 +21,3 @@ Docker Desktop is an easy-to-install application for your Mac, Linux, or Windows
 
 For more information, check out the [Docker Desktop documentation](https://docs.docker.com/desktop/) and join the [Docker community](https://forums.docker.com/) to connect with other users and developers.
 
-## License
-
-This README is part of the "Developer Tools" repository and is licensed under the [MIT License](../LICENSE).

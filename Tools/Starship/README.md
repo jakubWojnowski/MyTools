@@ -20,6 +20,3 @@ Starship is a blazing-fast, customizable, and intelligent prompt for any shell! 
 
 For more information, check out the [Starship documentation](https://starship.rs) and join the [Starship community](https://github.com/starship/starship/discussions) to connect with other users and developers.
 
-## License
-
-This README is part of the "Developer Tools" repository and is licensed under the [MIT License](../LICENSE).

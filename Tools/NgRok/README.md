@@ -20,6 +20,3 @@ ngrok is a powerful tool that allows you to expose a local server to the interne
 
 For more information, check out the [ngrok documentation](https://ngrok.com/docs) and join the [ngrok community](https://discuss.ngrok.com/) to connect with other users and developers.
 
-## License
-
-This README is part of the "Developer Tools" repository and is licensed under the [MIT License](../LICENSE).

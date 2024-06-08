@@ -13,6 +13,18 @@ Obsidian is a powerful note-taking and knowledge management application designed
 - **Sync Across Devices:** Sync your notes across multiple devices using services like Dropbox, iCloud, or your own custom sync solution.
 - **Security:** Keep your data safe with end-to-end encryption and other security features to protect your privacy.
 
+## Example: Graph View
+
+![Graph View](https://example.com/graphview.png)
+
+The graph view in Obsidian allows you to visualize the connections between your notes. You can see how different topics are related and navigate between them easily.
+
+## Example: Interlinked Notes
+
+![Interlinked Notes](https://example.com/interlinkednotes.png)
+
+Obsidian allows you to create links between your notes, forming a web of interconnected ideas. This makes it easy to explore relationships between different concepts and topics.
+
 ## Getting Started
 
 To get started with Obsidian, simply download and install the application on your device. Once installed, you can start creating and organizing your notes right away. Explore the different features and customization options to tailor Obsidian to your workflow and preferences.

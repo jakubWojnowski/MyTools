@@ -10,7 +10,7 @@ Below is a list of tools included in this repository, along with links to their 
 2. [GitHub Desktop](tools/github-desktop/README.md) - Desktop application for easy GitHub workflow.
 3. [Docker Desktop](tools/docker-desktop/README.md) - Platform for running, managing, and scaling applications in containers.
 4. [Rancher](tools/rancher/README.md) - Platform for managing Kubernetes containers.
-5. [GitKraken](tools/gitkraken/README.md) - Advanced Git GUI client for developers.
+5. [GitKraken](Tools/Kraken/README.md) - Advanced Git GUI client for developers.
 6. [Bruno](Tools/Bruno/README.md) - Tool for CI/CD process automation.
 7. [Obsidian](Tools/Obsidian/README.md) - Application for note-taking and mind mapping for content creators.
 8. [Visual Studio Code](tools/visual-studio-code/README.md) - Popular code editor with a wide range of extensions.

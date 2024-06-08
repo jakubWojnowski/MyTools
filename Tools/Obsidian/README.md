@@ -1,4 +1,3 @@
-# Obsidian
 
 Obsidian is a powerful note-taking and knowledge management application designed for creators, researchers, and anyone who wants to organize and connect their thoughts in a meaningful way.
 
@@ -15,15 +14,18 @@ Obsidian is a powerful note-taking and knowledge management application designed
 
 ## Example: Graph View
 
-![Graph View](https://example.com/graphview.png)
+![Graph View](https://github.com/jakubWojnowski/MyTools/assets/83953649/000ce308-942b-49c4-aa47-e8d8b2dce878)
+
+
 
 The graph view in Obsidian allows you to visualize the connections between your notes. You can see how different topics are related and navigate between them easily.
 
-## Example: Interlinked Notes
+## Example: Canvas
 
-![Interlinked Notes](https://example.com/interlinkednotes.png)
+![Canvas](https://github.com/jakubWojnowski/MyTools/assets/83953649/5a377daf-764f-48c3-a19e-2b31538bcce9)
 
-Obsidian allows you to create links between your notes, forming a web of interconnected ideas. This makes it easy to explore relationships between different concepts and topics.
+
+Obsidian's Canvas feature provides a flexible space for visual thinking and creative brainstorming. You can freely arrange and connect your notes, images, and ideas to create rich, multimedia documents.
 
 ## Getting Started
 

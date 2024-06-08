@@ -14,7 +14,8 @@ GitKraken is an advanced Git GUI client designed to streamline the development w
 
 ## Example: View
 
-![GitKraken](image-1.png)
+![GitKraken](https://github.com/jakubWojnowski/MyTools/assets/83953649/41de212b-145d-40ac-af7b-d9aca3af7fbb)
+
 
 ## Getting Started
 
